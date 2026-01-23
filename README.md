@@ -40,7 +40,7 @@ Backend Developer | 무신사(MUSINSA) | Seoul, Korea
 ## 📫 How to Reach Me
 
 - Email: favianred@gmail.com
-- LinkedIn: [linkedin.com/in/heungyeol-kim](https://linkedin.com/in/heungyeol-kim)
+- LinkedIn: [linkedin.com/in/heungyeol-kim-56749a169](https://www.linkedin.com/in/heungyeol-kim-56749a169/)
 - Blog: [ddojai.github.io/TIL](https://ddojai.github.io/TIL)
 
 ---
