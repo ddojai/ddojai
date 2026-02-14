@@ -27,7 +27,7 @@ Backend Developer | 무신사(MUSINSA) | Seoul, Korea
 
 ## 🏆 Career Highlights
 
-- **큐레이터 서비스 핵심 기여** (2024)
+- **큐레이터 서비스 기여** (2024)
   - 어필리에이트 기능 고도화로 서비스 대폭 성장 달성
   - 큐레이터 수익 창출 생태계 확장 주도
 
